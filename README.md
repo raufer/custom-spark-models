@@ -2,6 +2,8 @@
 
 Version: Spark 2.2.1
 
+For a more detailed explanation check: https://raufer.github.io/2018-02-08-custom-spark-models-with-python-wrappers/
+
 For a clean packaging:
 
 ```
